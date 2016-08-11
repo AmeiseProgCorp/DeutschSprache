@@ -22,6 +22,8 @@ namespace DeutschSprache
         public StartPointFormRevision2()
         {
             InitializeComponent();
+
+            MessageBox.Show("Давайте проверим, работает ли мой Git!");
         }
 
         private void StartPointFormRevision2_Load(object sender, EventArgs e)
